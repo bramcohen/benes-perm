@@ -1,0 +1,6 @@
+// Generated from benes.metal.
+#pragma once
+
+inline constexpr const char* benes_metal_source = R"BENES_METAL(
+@BENES_METAL_SOURCE@
+)BENES_METAL";
